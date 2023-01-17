@@ -1,5 +1,10 @@
 {
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+   
+  },
+
+  "scripts": {
+    "test": "jest"
+}
 }
