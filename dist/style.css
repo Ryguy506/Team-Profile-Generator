@@ -1,0 +1,21 @@
+.card-header{
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+
+
+.team-heading{
+ background-color:#6c757d ;
+ color: #fff;
+}
+
+.card{
+    padding: 0;
+}
+
+.card-body{
+    font-weight: 500;
+}
